@@ -25,7 +25,7 @@ It **sleeps**, **jumps**, and **floats away holding a balloon** when you hover y
 <p align="center">
   <img src="sleeping_cat.gif" width="170"/>
   <img src="jumping_cat.gif" width="170"/>
-  <img src="baloon_cat.gif" width="170"/>
+  <img src="balloon_cat.gif" width="170"/>
   <img src="idle_fly_cat.gif" width="170"/>
 </p>
 
